@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A game of tic tac toe - Assignement from the Odin Project
+A game of tic tac toe - Assignment from the Odin Project
